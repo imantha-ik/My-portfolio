@@ -57,8 +57,8 @@ public/
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/your-username/elemental-aim.git
-cd elemental-aim
+git clone https://github.com/Awkward-turtleness/ElementalAim.git
+cd ElementalAim/frontend
 npm install  # or yarn
 ```
 
@@ -105,8 +105,7 @@ You may download these separately or replace them with placeholders.
 | Script      | Description                  |
 |-------------|------------------------------|
 | `npm run dev` | Run local dev server          |
-| `npm run build` | Build for production          |
-| `npm run preview` | Preview the production build |
+
 
 ---
 
