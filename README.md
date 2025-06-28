@@ -121,7 +121,7 @@ This project was developed by Imantha Karunarathna as part of the final submissi
 
 ---
 
-© 2025 Imantha Karunarathna and team – All rights reserved. Elemental AIM Project.
+© 2025 Imantha Karunarathna – All rights reserved. Elemental AIM Project.
 
 ---
 
