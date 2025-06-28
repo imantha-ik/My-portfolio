@@ -7,12 +7,19 @@ This repository contains the complete **frontend and backend** code for my final
 ## 🚀 Project Highlights
 
 - 🔐 Full-stack architecture (Frontend + Backend)
-- 🌐 Responsive, modern UI using **React** and **Tailwind CSS**
-- 🛠️ Backend with Node.js, Express, and MongoDB
+- 🌐 Responsive, modern UI using **React** and **Tailwind CSS** and **JaveScript** and  **TypeScript**
+- 🛠️ Backend with Mysql
 - 📦 REST APIs for user management, authentication, and dynamic content
-- ☁️ Ready for deployment to cloud platforms
 
 ---
 
 ## 🗂️ Repository Structure
 
+Capstone/
+├── frontend/ 
+├── backend/code
+
+## 📫 Contact
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/imantha-karunaratha)
+- 📧 imanthanjint@gmail.com
