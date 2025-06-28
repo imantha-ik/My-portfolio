@@ -21,5 +21,5 @@ Capstone/
 
 ## 📫 Contact
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/imantha-karunaratha)
+- 💼 [LinkedIn] www.linkedin.com/in/imantha-karunarathna
 - 📧 imanthanjint@gmail.com
